@@ -1,7 +1,7 @@
 title: DATA 3210 - 
 description: Course website for DATA 3210, covering fundamentals of programming with R.
-baseurl: "" # Use "" for user sites (username.github.io) or "/repo-name" for project sites (username.github.io/repo-name)
-url: "https://github.com/imowerman-prog/data-3210.git" # Replace with your GitHub Pages URL
+baseurl: "/data-3210" # Use "" for user sites (username.github.io) or "/repo-name" for project sites (username.github.io/repo-name)
+url: "https://imowerman-prog.github.io/data-3210" # Replace with your GitHub Pages URL
 theme: minima
 show_downloads: false
 markdown: kramdown
