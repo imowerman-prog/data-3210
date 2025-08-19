@@ -1,5 +1,5 @@
-title: DATA 3210 - 
-description: Course website for DATA 3210, covering fundamentals of programming with R.
+title: DATA 3210 - Business Analytics Methods
+description: Course website for DATA 3210, covering fundamentals of statistical programming with R.
 baseurl: "/data-3210" # Use "" for user sites (username.github.io) or "/repo-name" for project sites (username.github.io/repo-name)
 url: "https://imowerman-prog.github.io/data-3210" # Replace with your GitHub Pages URL
 theme: minima
@@ -11,6 +11,7 @@ course:
   instructor: Illya Mowerman, Ph.D.
   email: imowerman@fairfield.edu
   semester: Fall 2025
+
 
 # Minima theme settings
 minima:
