@@ -1,0 +1,19 @@
+title: DATA 3210 - 
+description: Course website for DATA 3210, covering fundamentals of programming with R.
+baseurl: "" # Use "" for user sites (username.github.io) or "/repo-name" for project sites (username.github.io/repo-name)
+url: "https://github.com/imowerman-prog/data-3210.git" # Replace with your GitHub Pages URL
+theme: minima
+show_downloads: false
+markdown: kramdown
+
+# Custom variables for your class
+course:
+  instructor: Illya Mowerman, Ph.D.
+  email: imowerman@fairfield.edu
+  semester: Fall 2025
+
+# Minima theme settings
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/imowerman-prog" }
+    - { platform: email, user_url: "mailto:imowerman@fairfield.edu" }
