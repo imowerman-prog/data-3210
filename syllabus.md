@@ -9,7 +9,6 @@ title: Syllabus
 - **Course Code**: DATA3210
 - **Course Title**: Business Analytics
 - **Credit Hours**: 3 credits
-- **Semester**: Fall 2025
 - **Office Hours**: In class, or by appointment made in class
 
 ## Faculty Contact Information
