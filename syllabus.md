@@ -13,7 +13,7 @@ title: Syllabus
 
 ## Faculty Contact Information
 - **Name**: Illya Mowerman, Ph.D.
-- **Email**: imowerman@fairfield.edu
+- **Email**: [imowerman@fairfield.edu](imowerman@fairfield.edu)
 
 ## Course Description
 This course introduces basic skills necessary for business analytics such as data analysis and preparation, probability and statistical modeling, data-driven decision making, and persuasion/storytelling with data.
@@ -27,8 +27,8 @@ This course introduces basic skills necessary for business analytics such as dat
 ## Required Software
 All students are required to use R and R-Studio. R is a statistical programming language, and R Studio is the third-party software user interface for R. They will be used in almost all course assignments. R is freely available under GNP General Public License for various operating systems (including Windows and Mac OS), and RStudio is also a free download. You can download them on your own computer as described below:
 
-1. **Download R**: Visit [http://www.cran.r-project.org/](http://www.cran.r-project.org/)
-2. **Download R-Studio**: Visit [http://www.rstudio.com/products/rstudio/](http://www.rstudio.com/products/rstudio/)
+1. **Download R**: Visit [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
+2. **Download R-Studio**: Visit [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
    - Choose ‘RStudio Desktop Open Source Edition’ for your operating system.
 
 ## Course Grading and Assignments
@@ -106,3 +106,5 @@ Fairfield University is committed to providing qualified students with disabilit
 
 ### Mental Health
 Fairfield University provides mental health services to support the academic and personal success and well-being of students. Counseling & Psychological Services offers free, confidential psychological services to help students manage personal challenges that may interfere with their well-being. Fairfield University is committed to advancing the mental health and well-being of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available.
+
+[def]: imowerman@fairfield.edu
