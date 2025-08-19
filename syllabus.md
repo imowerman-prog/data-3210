@@ -49,12 +49,6 @@ If a student decides to work with someone and issues arise, the professor will o
 - Communication is most preferable in person. Questions regarding any assignment must be made in class. Assignment questions will not be answered by email.
 - Do not email to explain why you did not attend class. If the school has excused you from attending class, ensure the professor has been notified, and you will be marked present.
 
-## Where is my Professor?
-- **Monday and Thursday**
-  - **Section 1**: 08:00 AM to 09:15 AM – Dolan 218
-  - **Section 2**: 09:30 AM to 10:45 AM – Dolan 218
-  - **Section 3**: 11:00 AM to 12:15 PM – Dolan 218
-
 ## Course Schedule
 The course flows in four modules, each six classes in length, with adjustments as needed.
 
