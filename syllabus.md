@@ -6,10 +6,10 @@ title: Syllabus
 # DATA 3210 - Business Analytics
 
 ## Course Information
-- **Course Code**: DATA3210
-- **Course Title**: Business Analytics
-- **Credit Hours**: 3 credits
-- **Office Hours**: In class, or by appointment made in class
+**Course Code**: DATA3210  
+**Course Title**: Business Analytics  
+**Credit Hours**: 3 credits  
+**Office Hours**: In class, or by appointment made in class  
 
 ## Faculty Contact Information
 - **Name**: Illya Mowerman, Ph.D.
