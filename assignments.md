@@ -2,7 +2,7 @@
 layout: default
 title: Assignments
 ---
-# Assignments for CS101: Introduction to Programming
+# Assignments for DATA 3210: Business Analytics Methods
 
 Below are the assignments for {{ site.course.semester }}. Check back regularly for updates.
 
