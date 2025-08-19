@@ -13,7 +13,7 @@ title: Syllabus
 
 ## Faculty Contact Information
 - **Name**: Illya Mowerman, Ph.D.
-- **Email**: [imowerman@fairfield.edu](imowerman@fairfield.edu)
+- **Email**: [imowerman@fairfield.edu](mailto:imowerman@fairfield.edu)
 
 ## Course Description
 This course introduces basic skills necessary for business analytics such as data analysis and preparation, probability and statistical modeling, data-driven decision making, and persuasion/storytelling with data.
@@ -59,38 +59,39 @@ If a student decides to work with someone and issues arise, the professor will o
 The course flows in four modules, each six classes in length, with adjustments as needed.
 
 | Module | Topic | Due |
-| --- | --- | --- |
-| Class Introduction | Syllabus | |
-| | Install R & RStudio | |
-| | Groups | |
-| Getting Started | Import Data | Install R & RStudio |
-| | Data Types | |
-| | Variable Types | |
-| | RMarkdown | |
-| | RPubs | |
-| Data Wrangling | Filter | Import Data |
-| | Select | Data Types |
-| | Rename | Variable Types |
-| | Mutate | |
-| | Sort | |
-| Data Wrangling | Inner Join | Filter |
-| | Full Join | Select |
-| | Left Join | Rename |
-| | Semi Join | Mutate |
-| | Anti Join | Sort |
-| Distributions & Hypothesis Testing | | Inner Join |
-| | | Full Join |
-| | | Left Join |
-| | | Semi Join |
-| | | Anti Join |
-| Univariate Analysis | Histograms | |
-| | Bar Plots | |
-| Bivariate Analysis | Correlations | Histograms |
-| | | Bar Plots |
-| Bivariate Analysis | t-test | Correlations |
-| Bivariate Analysis | Chi-Square Test | t-test |
-| Modeling | Linear Models | Chi-Square Test |
-| Modeling | CART | Linear Models |
+| :----- | :---- | :-- |
+| <span style="background-color: #f0f8ff;">Class Introduction</span> | Syllabus | |
+| <span style="background-color: #f0f0f0;"> | Install R & RStudio | |
+| <span style="background-color: #f0f8ff;"> | Groups | |
+| <span style="background-color: #f0f0f0;">Getting Started</span> | Import Data | Install R & RStudio |
+| <span style="background-color: #f0f8ff;"> | Data Types | |
+| <span style="background-color: #f0f0f0;"> | Variable Types | |
+| <span style="background-color: #f0f8ff;"> | RMarkdown | |
+| <span style="background-color: #f0f0f0;"> | RPubs | |
+| <span style="background-color: #f0f8ff;">Data Wrangling</span> | Filter | Import Data |
+| <span style="background-color: #f0f0f0;"> | Select | Data Types |
+| <span style="background-color: #f0f8ff;"> | Rename | Variable Types |
+| <span style="background-color: #f0f0f0;"> | Mutate | |
+| <span style="background-color: #f0f8ff;"> | Sort | |
+| <span style="background-color: #f0f0f0;">Data Wrangling</span> | Inner Join | Filter |
+| <span style="background-color: #f0f8ff;"> | Full Join | Select |
+| <span style="background-color: #f0f0f0;"> | Left Join | Rename |
+| <span style="background-color: #f0f8ff;"> | Semi Join | Mutate |
+| <span style="background-color: #f0f0f0;"> | Anti Join | Sort |
+| <span style="background-color: #f0f8ff;">Distributions & Hypothesis Testing</span> | | Inner Join |
+| <span style="background-color: #f0f0f0;"> | | Full Join |
+| <span style="background-color: #f0f8ff;"> | | Left Join |
+| <span style="background-color: #f0f0f0;"> | | Semi Join |
+| <span style="background-color: #f0f8ff;"> | | Anti Join |
+| <span style="background-color: #f0f0f0;">Univariate Analysis</span> | Histograms | |
+| <span style="background-color: #f0f8ff;"> | Bar Plots | |
+| <span style="background-color: #f0f0f0;">Bivariate Analysis</span> | Correlations | Histograms |
+| <span style="background-color: #f0f8ff;"> | | Bar Plots |
+| <span style="background-color: #f0f0f0;">Bivariate Analysis</span> | t-test | Correlations |
+| <span style="background-color: #f0f8ff;">Bivariate Analysis</span> | Chi-Square Test | t-test |
+| <span style="background-color: #f0f0f0;">Modeling</span> | Linear Models | Chi-Square Test |
+| <span style="background-color: #f0f8ff;">Modeling</span> | CART | Linear Models |
+
 
 ## Coding and The Use of AI Tools
 The use of AI tools is optional and encouraged for coding. In today’s work environment, the use of AI tools is becoming more mainstream and, at many firms, is a requirement, implicitly or explicitly. However, relying completely (100%) on AI tools for analytics-related work and computer programming is not feasible yet. One must check the output and results.
